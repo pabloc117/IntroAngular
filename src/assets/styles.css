@@ -1,0 +1,12 @@
+.fondoAzul {
+  background: 5px solid lightblue !important;
+}
+
+.fondoVerde {
+  background: 5px solid lightgreen !important;
+}
+
+.activado {
+  font-weight: bold;
+  background: #895963;
+}
